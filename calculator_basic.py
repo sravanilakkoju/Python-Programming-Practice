@@ -46,3 +46,41 @@ while(True):
 print("result : ",result)
 
 
+
+
+
+'''
+calculate                                                          
+enter no 1: 6                                                      
+enter no 2: 4                                                      
+enter operator +,-,*,/: +                                          
+6.0 + 4.0 = 10.0                                                   
+result :  10.0                                                     
+enter operator +,-,*,/: -                                          
+10                                                                 
+10.0 - 10.0 = 0.0                                                  
+enter operator +,-,*,/: +                                          
+2                                                                  
+0.0 + 2.0 = 2.0                                                    
+enter operator +,-,*,/: 0                                          
+result :  2.0   
+
+
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
