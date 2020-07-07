@@ -1,0 +1,22 @@
+a = input()
+l = len(a)
+m = (l-1)//2
+for i in range(1,l+1,+2):
+    print(" "*m,end="")
+    print(a[m:m+i])
+    m=m-1
+for i in range(l,-1,-2):
+    m=m+1
+    print(" "*m,end="")
+    print(a[m:m+i])
+    
+    
+'''
+codin
+  d                                                              
+ odi                                                             
+codin                                                            
+codin                                                            
+ odi                                                             
+  d  
+'''
